@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am linhdinh2 on github.
+  * I am linhdinh (https://keybase.io/linhdinh) on keybase.
+  * I have a public key ASDzxR-ZiV3twu3s9Wtt1LJc9bMkAIvuZ_71DPnuAKboego
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f3c51f99895dedc2edecf56b6dd4b25cf5b324008bee67fef50cf9ee00a6e87a0a",
+      "host": "keybase.io",
+      "kid": "0120f3c51f99895dedc2edecf56b6dd4b25cf5b324008bee67fef50cf9ee00a6e87a0a",
+      "uid": "ddd88295e7160131ed15fbbe5bce1119",
+      "username": "linhdinh"
+    },
+    "merkle_root": {
+      "ctime": 1575044024,
+      "hash": "fed554617ef8603f807904c9f0cb53858432e84ee79d6dcab7f3b3bc502d1af688a924050885b7c8797e54eadcc31314b568554b555c01e3aaad110222a200e3",
+      "hash_meta": "a21ab2e37479c3c36673d5a9d976645c4a8e7164ddbdc31ba9af533c4353f09a",
+      "seqno": 11331013
+    },
+    "service": {
+      "entropy": "VlakiwtO7CC4KYXofftffjtu",
+      "name": "github",
+      "username": "linhdinh2"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1575044037,
+  "expire_in": 504576000,
+  "prev": "dea9bfbe5fa2f8861093ed772585102bb9c1b05dae323a0f2dc8cd58b00f50b6",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASDzxR-ZiV3twu3s9Wtt1LJc9bMkAIvuZ_71DPnuAKboego](https://keybase.io/linhdinh), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg88UfmYld7cLt7PVrbdSyXPWzJACL7mf+9Qz57gCm6HoKp3BheWxvYWTESpcCC8Qg3qm/vl+i+IYQk+13JYUQK7nBsF2uMjoPLcjNWLAPULbEIClGHCzEohtkSDwiLJbBuqHDSl2L29H8xFVSxEOmIeYEAgHCo3NpZ8RAtQ2vOPvTFtQF7BguJu+ngieim9+nj7ZDvYt6CmQWSbFidIhHY+jZAUxf6XysY0Qh0J6o7vKgjViwI5lAj0faA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKQinoynY0sargcxdIyFFKqaHS4lvYMh3HtcT3ZDxQG6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/linhdinh
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id linhdinh
+```
